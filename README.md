@@ -84,7 +84,7 @@ For any queries, suggestions, or collaboration opportunities:
 
 ---
 
-## 🎖️ Badges (Optional)
+## 🎖️ Used In This Website
 
 
 
