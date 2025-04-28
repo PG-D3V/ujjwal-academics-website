@@ -46,13 +46,13 @@ To set up the project locally:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/ujjwal-academics.git
+git clone https://github.com/PG-D3V/ujjwal-academics-website.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd ujjwal-academics
+cd ujjwal-academics-website
 ```
 
 3. Open `index.html` with your preferred browser.
@@ -63,7 +63,7 @@ cd ujjwal-academics
 
 ## 🌐 Live Website
 
-[👉 Visit Ujjwal Academics](#)  
+[👉 Visit Ujjwal Academics](https://ujjwalacademics.com/)  
 *(Replace `#` with the live URL if deployed)*
 
 ---
@@ -79,21 +79,20 @@ This project is licensed under the [MIT License](LICENSE).
 For any queries, suggestions, or collaboration opportunities:
 
 - **Developer:** Pankaj Gulbeer
-- **Email:** (Insert your email here)
-- **LinkedIn:** (Insert your LinkedIn URL if available)
+- **Email:** (pkp162550@outlook.com)
+- **LinkedIn:** (https://www.linkedin.com/in/pankaj-gulbeer-0b1a2a351/)
 
 ---
 
 ## 🎖️ Badges (Optional)
 
-You can add these badges for more visual appeal on GitHub:
 
-```
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-```
 
----
+
+
 
 # Thank You for Visiting 🙏
